@@ -1,0 +1,38 @@
+[
+  {
+    "id": 85001654012,
+    "name": "Travel Ad_01.jpeg",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001654012/original/Travel%20Ad_01.jpeg?Expires=1755505453&Signature=TceJGiGKoUsGG77-77zEuzUIszp~XB1Ll~MBbP7OkiyR-t4ahzRB-Is5QH~SbgEGLciRyHc3nDze5NZroXuHkWRrWwRDYNAWNYwAJsWzdE5AjB2GqlEhA~UwSQ2FxcAzGJrMd6SmptTkNomlycz5e5hgbzJnmssdA2sPe7CbVX1WqX5KtLOXjScRauwjKle9nUkyKrBkJKk97eNzUmv-ZVCthmKHcPLPDTY9HK0r2PysHZArKgfNry5g4wXe1dMUaoumLuGUVakVt~8KWdHb8XdgNHFWPeRPWJ5VmUI1G2Fao~C7jmrADP7FiB0xfzbyv6CrX3vbTV78xSHL80fmNA__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/jpeg",
+    "size": 658737,
+    "created_at": "2025-08-18T06:37:40Z",
+    "updated_at": "2025-08-18T06:37:40Z",
+    "user_id": 85000075781,
+    "conversation_id": 85004105031,
+    "ticket_id": 26598
+  },
+  {
+    "id": 85001654013,
+    "name": "Travel Ad_02.jpeg",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001654013/original/Travel%20Ad_02.jpeg?Expires=1755505453&Signature=gVMc0fOIPf5B5aYCcugPpaCO3Li5FOjlNiP0aoKwvMGROX7~LvgA77a-3Ap34ztk1siD~6nNZfxz3Bu7qoqZjcv4B0HqXBRiKiMoWu-MXmZf49aB-eSLP86hJj2qfAcLdxXQUY3fXjgldnBeJZqVvYW0F3d44ZRk9W2WZz6UQe0x2yoNa6ax8UfYl8AQfHMVPuR1uiK3D36tC8Bji-jI1VMIvdSLYfW~IrCf8RCymVDUvUQ3daQoAkZMY1Rze9tvSwTT0dTrOtuHK5m~brKtQgd3y2yoPc7HKFSBkBxvHONt0j4Mtpr6-rHVUYIrlZBwPY4Lbg4XDnvIa6Uhd0Ahyw__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/jpeg",
+    "size": 648516,
+    "created_at": "2025-08-18T06:37:40Z",
+    "updated_at": "2025-08-18T06:37:40Z",
+    "user_id": 85000075781,
+    "conversation_id": 85004105031,
+    "ticket_id": 26598
+  },
+  {
+    "id": 85001654014,
+    "name": "Travel Ad_03.jpeg",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001654014/original/Travel%20Ad_03.jpeg?Expires=1755505453&Signature=eq2BYi8c8RPaxLmWKBaZ6YdXrGKvtDYyv~yyhnNG6HAJLSVS0e1BkDQTKa4PsR2XbWSJUluVF-9gOCwq8BrfAUklbW134SOnzOM6ReF3UBH37ab12JJc5BFv3JVsgsOkQNpA5ZVm3tFanln2f0R1-RIQ1hXaGCuoxfjef1FGLNalzM7z7gfNUOWqyaYwlmQug7R~5RzR8g6qbU-CYDlgzoTrXaPHhXYYd8A51Uifn~PwSDTFRMkyR2urkes90ELNw2prhZOlsnCuHeXInfsArQa1Z6uKxKigZHRx7RRDQYzx5wewaGc2Nlf~rFQPb2cr5hw-Fcux9woFEwO0c-sx3w__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/jpeg",
+    "size": 651310,
+    "created_at": "2025-08-18T06:37:40Z",
+    "updated_at": "2025-08-18T06:37:40Z",
+    "user_id": 85000075781,
+    "conversation_id": 85004105031,
+    "ticket_id": 26598
+  }
+]

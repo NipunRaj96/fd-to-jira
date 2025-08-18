@@ -1,0 +1,44 @@
+[
+  {
+    "id": 85004052628,
+    "body_text": "Hi Team,\r\n\r\nWe have raised a ticket for Independence Day mailer creation.\r\n\r\nPlease help provide it as soon as possible.\r\n\r\n*Regards*\r\n*Nehal Shukla *\r\n*HR- Internal Communications*\r\n*8349831117*\r\n\r\n\r\n\r\nOn Mon, Aug 11, 2025 at 12:16 PM Design Team <\r\nsupport@paytm-designocl.freshdesk.com> wrote:\r\n\r\n> Dear Nehal Shukla,\r\n>\r\n> We would like to acknowledge that we have received your request and a\r\n> ticket has been created.\r\n> A support representative will be reviewing your request and will send you\r\n> a personal response.(usually within 24 hours).\r\n>\r\n> To view the status of the ticket or add comments, please visit\r\n> https://paytm-designocl.freshdesk.com/helpdesk/tickets/26661\r\n>\r\n> Thank you for your patience.\r\n>\r\n> Sincerely,\r\n> Design Team _ Brand Marketing Support Team\r\n>\r\n> 26661:2424999\r\n>\r\n\r\n",
+    "body": "<div dir=\"ltr\">\n<div>Hi Team,</div>\n<div><br></div>\n<div>We have raised a ticket for Independence Day mailer creation.</div>\n<div><br></div>\n<div>Please help provide it as soon as possible.</div>\n<div><br></div>\n<div><div dir=\"ltr\" class=\"gmail_signature\"><div dir=\"ltr\">\n<b>Regards</b><div><b>Nehal Shukla </b></div>\n<div><b>HR- Internal Communications</b></div>\n<div><b>8349831117</b></div>\n<div><br></div>\n</div></div></div>\n<br>\n</div>\n<br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\"></div></div>\n<div class=\"freshdesk_quote\"><blockquote class=\"freshdesk_quote\">\n<div>On Mon, Aug 11, 2025 at 12:16 PM Design Team &lt;<a href=\"mailto:support@paytm-designocl.freshdesk.com\" rel=\"noreferrer\">support@paytm-designocl.freshdesk.com</a>&gt; wrote:<br>\n</div>\n<blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex\"><div style='font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:14px'>\n\t\n<div dir=\"ltr\">\n<div>Dear Nehal Shukla,<br><br>We would like to acknowledge that we have received your request and a ticket has been created.<br>A support representative will be reviewing your request and will send you a personal response.(usually within 24 hours).<br><br>To view the status of the ticket or add comments, please visit <br><a href=\"https://paytm-designocl.freshdesk.com/helpdesk/tickets/26661\" target=\"_blank\" rel=\"noreferrer\">https://paytm-designocl.freshdesk.com/helpdesk/tickets/26661</a><br><br>Thank you for your patience.<br><br>Sincerely,<br>Design Team _ Brand Marketing Support Team</div>\n</div>\n\n\n\n\n\n\t\n\t<br>\n\n\n\n\n\n\n</div></blockquote>\n</blockquote></div>",
+    "private": false,
+    "created_at": "2025-08-11T06:48:43Z",
+    "updated_at": "2025-08-11T06:48:43Z",
+    "user_id": 85000774658,
+    "incoming": true,
+    "source": 0,
+    "support_email": "nehal.shukla@paytm.com",
+    "to_emails": [
+      "\"Design Team\" <support@paytm-designocl.freshdesk.com>"
+    ],
+    "from_email": "nehal.shukla@paytm.com",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26661
+  },
+  {
+    "id": 85004063754,
+    "body_text": "Hi Nehal,     Sharing the mailer.          Note: The time was not mentioned in the doc, so have done the placeholder. ",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Nehal,</div>\n<div><br></div>\n<div dir=\"ltr\">Sharing the mailer. </div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n<div dir=\"ltr\">\n<strong>Note:</strong> The time was not mentioned in the doc, so have done the placeholder. </div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-12T14:35:11Z",
+    "updated_at": "2025-08-12T14:35:11Z",
+    "user_id": 85000184682,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "nehal.shukla@paytm.com"
+    ],
+    "from_email": "\"Sonal Daruka\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [
+      "priya.saini@paytm.com",
+      "smita@paytm.com",
+      "hirendra1.madhukar@paytm.com"
+    ],
+    "bcc_emails": [],
+    "ticket_id": 26661
+  }
+]

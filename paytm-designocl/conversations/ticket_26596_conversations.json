@@ -1,0 +1,71 @@
+[
+  {
+    "id": 85004036111,
+    "body_text": "@naren: pls pick next 25 brands and share timelines on Monday.",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">@naren: pls pick next 25 brands and share timelines on Monday.</div>\n<div><br></div>\n<div dir=\"ltr\">\n<br><img src=\"https://indattachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ODUwMDE2NDk2NjcsImRvbWFpbiI6InBheXRtLWRlc2lnbm9jbC5mcmVzaGRlc2suY29tIiwiYWNjb3VudF9pZCI6MjQyNDk5OX0.mLmU0I8nX5ctk1WjtHW_NPPq7y783ykzvxv_cRvVOqw\" style=\"width: auto; max-width: 100%\" class=\"fr-fil fr-dib\" data-id=\"85001649667\"><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-08T15:55:32Z",
+    "updated_at": "2025-08-08T15:55:32Z",
+    "user_id": 85000184667,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "garima.anand@paytm.com"
+    ],
+    "from_email": "\"Priya Saini\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [
+      "narendra.singh@paytm.com",
+      "hirendra1.madhukar@paytm.com",
+      "priya.saini@paytm.com"
+    ],
+    "bcc_emails": [],
+    "ticket_id": 26596
+  },
+  {
+    "id": 85004070758,
+    "body_text": "Hi Garima,     Sharing the figma link for 10 brands.      https://www.figma.com/design/DuXhNyvARo35X6uic8ezGW/CBO-Feb-2025?node-id=1996-640&t=sBF0LlwEHg2bbRxQ-1",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Garima,</div>\n<div><br></div>\n<div dir=\"ltr\">Sharing the figma link for 10 brands. </div>\n<div dir=\"ltr\"><br></div>\n<div dir=\"ltr\">\n<a href=\"https://www.figma.com/design/DuXhNyvARo35X6uic8ezGW/CBO-Feb-2025?node-id=1996-640&amp;t=sBF0LlwEHg2bbRxQ-1\" rel=\"noreferrer\">https://www.figma.com/design/DuXhNyvARo35X6uic8ezGW/CBO-Feb-2025?node-id=1996-640&amp;t=sBF0LlwEHg2bbRxQ-1</a><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-13T12:29:48Z",
+    "updated_at": "2025-08-13T12:29:48Z",
+    "user_id": 85000184682,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "garima.anand@paytm.com"
+    ],
+    "from_email": "\"Sonal Daruka\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [
+      "narendra.singh@paytm.com",
+      "hirendra1.madhukar@paytm.com",
+      "priya.saini@paytm.com"
+    ],
+    "bcc_emails": [],
+    "ticket_id": 26596
+  },
+  {
+    "id": 85004077978,
+    "body_text": "Hi Garima,     Add 10 more brands in the same figma. Kindly check and let me know. ",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Garima,</div>\n<div><br></div>\n<div dir=\"ltr\">Add 10 more brands in the same figma. Kindly check and let me know. </div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-14T12:11:50Z",
+    "updated_at": "2025-08-14T12:11:50Z",
+    "user_id": 85000184682,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "garima.anand@paytm.com"
+    ],
+    "from_email": "\"Sonal Daruka\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [
+      "narendra.singh@paytm.com",
+      "hirendra1.madhukar@paytm.com",
+      "priya.saini@paytm.com"
+    ],
+    "bcc_emails": [],
+    "ticket_id": 26596
+  }
+]

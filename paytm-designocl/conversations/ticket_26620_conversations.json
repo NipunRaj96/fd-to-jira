@@ -1,0 +1,40 @@
+[
+  {
+    "id": 85004060797,
+    "body_text": "Hi Kashish,  Here is the link for the video- https://drive.google.com/file/d/1CChN4ye5BAagRjPHxyuQmiuMrpMDh14B/view?usp=drive_link  Thanks!",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Kashish,<br><br>Here is the link for the video-<br><a href=\"https://drive.google.com/file/d/1CChN4ye5BAagRjPHxyuQmiuMrpMDh14B/view?usp=drive_link\" rel=\"noreferrer\">https://drive.google.com/file/d/1CChN4ye5BAagRjPHxyuQmiuMrpMDh14B/view?usp=drive_link</a><br><br>Thanks!<br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-12T08:06:20Z",
+    "updated_at": "2025-08-12T08:06:20Z",
+    "user_id": 85000225338,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "kashish.bhatia@paytm.com"
+    ],
+    "from_email": "\"Deepak Kashyap\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26620
+  },
+  {
+    "id": 85004067497,
+    "body_text": "Hi Kashish,  Hope the video is good to go. Closing this ticket.",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Kashish,<br><br>Hope the video is good to go. Closing this ticket.<br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-13T05:39:45Z",
+    "updated_at": "2025-08-13T05:39:45Z",
+    "user_id": 85000225338,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "kashish.bhatia@paytm.com"
+    ],
+    "from_email": "\"Deepak Kashyap\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26620
+  }
+]

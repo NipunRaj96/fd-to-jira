@@ -1,0 +1,502 @@
+2025-08-18 13:49:11,643 INFO [MainThread] ✅ Read 139 ticket IDs from ../test_tickets.csv
+2025-08-18 13:49:11,643 INFO [MainThread] Processing batch 1 (20 tickets)...
+2025-08-18 13:49:11,644 INFO [ThreadPoolExecutor-0_0] [details] START ticket 26574
+2025-08-18 13:49:11,644 INFO [ThreadPoolExecutor-0_1] [details] START ticket 26575
+2025-08-18 13:49:11,644 INFO [ThreadPoolExecutor-0_2] [details] START ticket 26576
+2025-08-18 13:49:11,644 INFO [ThreadPoolExecutor-0_3] [details] START ticket 26577
+2025-08-18 13:49:11,644 INFO [ThreadPoolExecutor-0_4] [details] START ticket 26578
+2025-08-18 13:49:11,645 INFO [ThreadPoolExecutor-0_5] [details] START ticket 26579
+2025-08-18 13:49:11,645 INFO [ThreadPoolExecutor-0_6] [details] START ticket 26580
+2025-08-18 13:49:11,645 INFO [ThreadPoolExecutor-0_7] [details] START ticket 26581
+2025-08-18 13:49:11,645 INFO [ThreadPoolExecutor-0_8] [details] START ticket 26582
+2025-08-18 13:49:11,645 INFO [ThreadPoolExecutor-0_9] [details] START ticket 26583
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_10] [details] START ticket 26584
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_11] [details] START ticket 26585
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_12] [details] START ticket 26586
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_13] [details] START ticket 26587
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_14] [details] START ticket 26588
+2025-08-18 13:49:11,646 INFO [ThreadPoolExecutor-0_15] [details] START ticket 26589
+2025-08-18 13:49:11,647 INFO [ThreadPoolExecutor-0_16] [details] START ticket 26590
+2025-08-18 13:49:11,647 INFO [ThreadPoolExecutor-0_17] [details] START ticket 26591
+2025-08-18 13:49:11,647 INFO [ThreadPoolExecutor-0_18] [details] START ticket 26592
+2025-08-18 13:49:11,647 INFO [ThreadPoolExecutor-0_19] [details] START ticket 26593
+2025-08-18 13:49:12,974 INFO [ThreadPoolExecutor-0_4] [details] END   ticket 26578
+2025-08-18 13:49:13,033 INFO [ThreadPoolExecutor-0_2] [details] END   ticket 26576
+2025-08-18 13:49:13,036 INFO [ThreadPoolExecutor-0_15] [details] END   ticket 26589
+2025-08-18 13:49:13,053 INFO [ThreadPoolExecutor-0_9] [details] END   ticket 26583
+2025-08-18 13:49:13,056 INFO [ThreadPoolExecutor-0_5] [details] END   ticket 26579
+2025-08-18 13:49:13,063 INFO [ThreadPoolExecutor-0_18] [details] END   ticket 26592
+2025-08-18 13:49:13,077 INFO [ThreadPoolExecutor-0_7] [details] END   ticket 26581
+2025-08-18 13:49:13,093 INFO [ThreadPoolExecutor-0_10] [details] END   ticket 26584
+2025-08-18 13:49:13,099 INFO [ThreadPoolExecutor-0_17] [details] END   ticket 26591
+2025-08-18 13:49:13,112 INFO [ThreadPoolExecutor-0_12] [details] END   ticket 26586
+2025-08-18 13:49:13,117 WARNING [ThreadPoolExecutor-0_1] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,120 INFO [ThreadPoolExecutor-0_1] [details] END   ticket 26575
+2025-08-18 13:49:13,130 WARNING [ThreadPoolExecutor-0_19] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,131 WARNING [ThreadPoolExecutor-0_3] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,133 INFO [ThreadPoolExecutor-0_19] [details] END   ticket 26593
+2025-08-18 13:49:13,134 INFO [ThreadPoolExecutor-0_3] [details] END   ticket 26577
+2025-08-18 13:49:13,137 WARNING [ThreadPoolExecutor-0_0] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,140 INFO [ThreadPoolExecutor-0_0] [details] END   ticket 26574
+2025-08-18 13:49:13,141 WARNING [ThreadPoolExecutor-0_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,145 INFO [ThreadPoolExecutor-0_13] [details] END   ticket 26587
+2025-08-18 13:49:13,148 WARNING [ThreadPoolExecutor-0_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,153 INFO [ThreadPoolExecutor-0_16] [details] END   ticket 26590
+2025-08-18 13:49:13,169 WARNING [ThreadPoolExecutor-0_8] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,172 INFO [ThreadPoolExecutor-0_8] [details] END   ticket 26582
+2025-08-18 13:49:13,189 WARNING [ThreadPoolExecutor-0_6] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,200 INFO [ThreadPoolExecutor-0_6] [details] END   ticket 26580
+2025-08-18 13:49:13,238 WARNING [ThreadPoolExecutor-0_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,247 INFO [ThreadPoolExecutor-0_11] [details] END   ticket 26585
+2025-08-18 13:49:13,331 WARNING [ThreadPoolExecutor-0_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:13,335 INFO [ThreadPoolExecutor-0_14] [details] END   ticket 26588
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26578 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26576 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26589 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26583 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26579 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26592 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26581 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26584 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26591 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26586 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26575 -> attachments=null
+2025-08-18 13:49:13,337 INFO [MainThread] [migration] ticket 26593 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26577 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26574 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26587 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26590 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26582 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26580 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26585 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] [migration] ticket 26588 -> attachments=null
+2025-08-18 13:49:13,338 INFO [MainThread] Batch 1 done. Added 20 entries to migration store
+2025-08-18 13:49:13,338 INFO [MainThread] Processing batch 2 (20 tickets)...
+2025-08-18 13:49:13,338 INFO [ThreadPoolExecutor-1_0] [details] START ticket 26594
+2025-08-18 13:49:13,338 INFO [ThreadPoolExecutor-1_1] [details] START ticket 26595
+2025-08-18 13:49:13,338 INFO [ThreadPoolExecutor-1_2] [details] START ticket 26596
+2025-08-18 13:49:13,338 INFO [ThreadPoolExecutor-1_3] [details] START ticket 26597
+2025-08-18 13:49:13,339 INFO [ThreadPoolExecutor-1_4] [details] START ticket 26598
+2025-08-18 13:49:13,339 INFO [ThreadPoolExecutor-1_5] [details] START ticket 26599
+2025-08-18 13:49:13,339 INFO [ThreadPoolExecutor-1_6] [details] START ticket 26600
+2025-08-18 13:49:13,340 INFO [ThreadPoolExecutor-1_7] [details] START ticket 26601
+2025-08-18 13:49:13,340 INFO [ThreadPoolExecutor-1_8] [details] START ticket 26602
+2025-08-18 13:49:13,340 INFO [ThreadPoolExecutor-1_9] [details] START ticket 26603
+2025-08-18 13:49:13,341 INFO [ThreadPoolExecutor-1_10] [details] START ticket 26604
+2025-08-18 13:49:13,342 INFO [ThreadPoolExecutor-1_11] [details] START ticket 26605
+2025-08-18 13:49:13,342 INFO [ThreadPoolExecutor-1_12] [details] START ticket 26606
+2025-08-18 13:49:13,342 INFO [ThreadPoolExecutor-1_13] [details] START ticket 26607
+2025-08-18 13:49:13,343 INFO [ThreadPoolExecutor-1_14] [details] START ticket 26608
+2025-08-18 13:49:13,343 INFO [ThreadPoolExecutor-1_15] [details] START ticket 26609
+2025-08-18 13:49:13,344 INFO [ThreadPoolExecutor-1_16] [details] START ticket 26610
+2025-08-18 13:49:13,344 INFO [ThreadPoolExecutor-1_17] [details] START ticket 26611
+2025-08-18 13:49:13,344 INFO [ThreadPoolExecutor-1_18] [details] START ticket 26612
+2025-08-18 13:49:13,345 INFO [ThreadPoolExecutor-1_19] [details] START ticket 26613
+2025-08-18 13:49:13,642 INFO [ThreadPoolExecutor-1_7] [details] END   ticket 26601
+2025-08-18 13:49:13,649 INFO [ThreadPoolExecutor-1_2] [details] END   ticket 26596
+2025-08-18 13:49:13,655 INFO [ThreadPoolExecutor-1_4] [details] END   ticket 26598
+2025-08-18 13:49:13,664 INFO [ThreadPoolExecutor-1_0] [details] END   ticket 26594
+2025-08-18 13:49:13,664 INFO [ThreadPoolExecutor-1_8] [details] END   ticket 26602
+2025-08-18 13:49:13,665 INFO [ThreadPoolExecutor-1_9] [details] END   ticket 26603
+2025-08-18 13:49:13,665 INFO [ThreadPoolExecutor-1_6] [details] END   ticket 26600
+2025-08-18 13:49:13,674 INFO [ThreadPoolExecutor-1_1] [details] END   ticket 26595
+2025-08-18 13:49:13,826 INFO [ThreadPoolExecutor-1_5] [details] END   ticket 26599
+2025-08-18 13:49:13,856 WARNING [ThreadPoolExecutor-1_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 9
+2025-08-18 13:49:13,925 INFO [ThreadPoolExecutor-1_3] [details] END   ticket 26597
+2025-08-18 13:49:13,991 INFO [ThreadPoolExecutor-1_14] [details] END   ticket 26608
+2025-08-18 13:49:13,999 WARNING [ThreadPoolExecutor-1_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,003 WARNING [ThreadPoolExecutor-1_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,005 WARNING [ThreadPoolExecutor-1_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,009 INFO [ThreadPoolExecutor-1_16] [details] END   ticket 26610
+2025-08-18 13:49:14,011 INFO [ThreadPoolExecutor-1_13] [details] END   ticket 26607
+2025-08-18 13:49:14,019 INFO [ThreadPoolExecutor-1_18] [details] END   ticket 26612
+2025-08-18 13:49:14,024 WARNING [ThreadPoolExecutor-1_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,024 WARNING [ThreadPoolExecutor-1_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,024 WARNING [ThreadPoolExecutor-1_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,032 INFO [ThreadPoolExecutor-1_12] [details] END   ticket 26606
+2025-08-18 13:49:14,033 INFO [ThreadPoolExecutor-1_17] [details] END   ticket 26611
+2025-08-18 13:49:14,042 INFO [ThreadPoolExecutor-1_19] [details] END   ticket 26613
+2025-08-18 13:49:14,094 WARNING [ThreadPoolExecutor-1_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,099 INFO [ThreadPoolExecutor-1_15] [details] END   ticket 26609
+2025-08-18 13:49:14,133 WARNING [ThreadPoolExecutor-1_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,137 INFO [ThreadPoolExecutor-1_11] [details] END   ticket 26605
+2025-08-18 13:49:14,186 WARNING [ThreadPoolExecutor-1_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,189 INFO [ThreadPoolExecutor-1_10] [details] END   ticket 26604
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26601 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26596 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26598 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26594 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26602 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26603 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26600 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26595 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26599 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26597 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26608 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26610 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26607 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26612 -> attachments=null
+2025-08-18 13:49:14,192 INFO [MainThread] [migration] ticket 26606 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] [migration] ticket 26611 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] [migration] ticket 26613 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] [migration] ticket 26609 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] [migration] ticket 26605 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] [migration] ticket 26604 -> attachments=null
+2025-08-18 13:49:14,193 INFO [MainThread] Batch 2 done. Added 20 entries to migration store
+2025-08-18 13:49:14,193 INFO [MainThread] Processing batch 3 (20 tickets)...
+2025-08-18 13:49:14,193 INFO [ThreadPoolExecutor-2_0] [details] START ticket 26614
+2025-08-18 13:49:14,193 INFO [ThreadPoolExecutor-2_1] [details] START ticket 26615
+2025-08-18 13:49:14,193 INFO [ThreadPoolExecutor-2_2] [details] START ticket 26616
+2025-08-18 13:49:14,194 INFO [ThreadPoolExecutor-2_3] [details] START ticket 26617
+2025-08-18 13:49:14,194 INFO [ThreadPoolExecutor-2_4] [details] START ticket 26618
+2025-08-18 13:49:14,195 INFO [ThreadPoolExecutor-2_5] [details] START ticket 26619
+2025-08-18 13:49:14,195 INFO [ThreadPoolExecutor-2_6] [details] START ticket 26620
+2025-08-18 13:49:14,196 INFO [ThreadPoolExecutor-2_7] [details] START ticket 26621
+2025-08-18 13:49:14,196 INFO [ThreadPoolExecutor-2_8] [details] START ticket 26622
+2025-08-18 13:49:14,196 INFO [ThreadPoolExecutor-2_9] [details] START ticket 26623
+2025-08-18 13:49:14,197 INFO [ThreadPoolExecutor-2_10] [details] START ticket 26624
+2025-08-18 13:49:14,197 INFO [ThreadPoolExecutor-2_11] [details] START ticket 26625
+2025-08-18 13:49:14,198 INFO [ThreadPoolExecutor-2_12] [details] START ticket 26626
+2025-08-18 13:49:14,198 INFO [ThreadPoolExecutor-2_13] [details] START ticket 26627
+2025-08-18 13:49:14,198 INFO [ThreadPoolExecutor-2_14] [details] START ticket 26628
+2025-08-18 13:49:14,199 INFO [ThreadPoolExecutor-2_15] [details] START ticket 26629
+2025-08-18 13:49:14,199 INFO [ThreadPoolExecutor-2_16] [details] START ticket 26630
+2025-08-18 13:49:14,199 INFO [ThreadPoolExecutor-2_17] [details] START ticket 26631
+2025-08-18 13:49:14,199 INFO [ThreadPoolExecutor-2_18] [details] START ticket 26632
+2025-08-18 13:49:14,200 INFO [ThreadPoolExecutor-2_19] [details] START ticket 26633
+2025-08-18 13:49:14,748 INFO [ThreadPoolExecutor-2_7] [details] END   ticket 26621
+2025-08-18 13:49:14,751 INFO [ThreadPoolExecutor-2_3] [details] END   ticket 26617
+2025-08-18 13:49:14,769 INFO [ThreadPoolExecutor-2_9] [details] END   ticket 26623
+2025-08-18 13:49:14,788 INFO [ThreadPoolExecutor-2_8] [details] END   ticket 26622
+2025-08-18 13:49:14,788 INFO [ThreadPoolExecutor-2_1] [details] END   ticket 26615
+2025-08-18 13:49:14,788 INFO [ThreadPoolExecutor-2_2] [details] END   ticket 26616
+2025-08-18 13:49:14,792 INFO [ThreadPoolExecutor-2_4] [details] END   ticket 26618
+2025-08-18 13:49:14,874 INFO [ThreadPoolExecutor-2_6] [details] END   ticket 26620
+2025-08-18 13:49:14,909 INFO [ThreadPoolExecutor-2_0] [details] END   ticket 26614
+2025-08-18 13:49:14,931 INFO [ThreadPoolExecutor-2_5] [details] END   ticket 26619
+2025-08-18 13:49:14,955 WARNING [ThreadPoolExecutor-2_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,958 INFO [ThreadPoolExecutor-2_17] [details] END   ticket 26631
+2025-08-18 13:49:14,984 WARNING [ThreadPoolExecutor-2_19] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,984 WARNING [ThreadPoolExecutor-2_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,989 WARNING [ThreadPoolExecutor-2_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,989 WARNING [ThreadPoolExecutor-2_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:14,993 INFO [ThreadPoolExecutor-2_19] [details] END   ticket 26633
+2025-08-18 13:49:14,994 INFO [ThreadPoolExecutor-2_11] [details] END   ticket 26625
+2025-08-18 13:49:14,994 INFO [ThreadPoolExecutor-2_18] [details] END   ticket 26632
+2025-08-18 13:49:14,994 INFO [ThreadPoolExecutor-2_12] [details] END   ticket 26626
+2025-08-18 13:49:15,011 WARNING [ThreadPoolExecutor-2_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,011 WARNING [ThreadPoolExecutor-2_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,015 INFO [ThreadPoolExecutor-2_16] [details] END   ticket 26630
+2025-08-18 13:49:15,015 INFO [ThreadPoolExecutor-2_10] [details] END   ticket 26624
+2025-08-18 13:49:15,027 WARNING [ThreadPoolExecutor-2_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,027 WARNING [ThreadPoolExecutor-2_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,032 INFO [ThreadPoolExecutor-2_14] [details] END   ticket 26628
+2025-08-18 13:49:15,033 INFO [ThreadPoolExecutor-2_15] [details] END   ticket 26629
+2025-08-18 13:49:15,076 WARNING [ThreadPoolExecutor-2_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,080 INFO [ThreadPoolExecutor-2_13] [details] END   ticket 26627
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26621 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26617 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26623 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26622 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26615 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26616 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26618 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26620 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26614 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26619 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26631 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26633 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26625 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26632 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26626 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26630 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26624 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26628 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26629 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] [migration] ticket 26627 -> attachments=null
+2025-08-18 13:49:15,082 INFO [MainThread] Batch 3 done. Added 20 entries to migration store
+2025-08-18 13:49:15,082 INFO [MainThread] Processing batch 4 (20 tickets)...
+2025-08-18 13:49:15,082 INFO [ThreadPoolExecutor-3_0] [details] START ticket 26634
+2025-08-18 13:49:15,082 INFO [ThreadPoolExecutor-3_1] [details] START ticket 26635
+2025-08-18 13:49:15,083 INFO [ThreadPoolExecutor-3_2] [details] START ticket 26636
+2025-08-18 13:49:15,083 INFO [ThreadPoolExecutor-3_3] [details] START ticket 26637
+2025-08-18 13:49:15,083 INFO [ThreadPoolExecutor-3_4] [details] START ticket 26638
+2025-08-18 13:49:15,084 INFO [ThreadPoolExecutor-3_5] [details] START ticket 26639
+2025-08-18 13:49:15,084 INFO [ThreadPoolExecutor-3_6] [details] START ticket 26640
+2025-08-18 13:49:15,085 INFO [ThreadPoolExecutor-3_7] [details] START ticket 26641
+2025-08-18 13:49:15,085 INFO [ThreadPoolExecutor-3_8] [details] START ticket 26642
+2025-08-18 13:49:15,086 INFO [ThreadPoolExecutor-3_9] [details] START ticket 26643
+2025-08-18 13:49:15,086 INFO [ThreadPoolExecutor-3_10] [details] START ticket 26644
+2025-08-18 13:49:15,087 INFO [ThreadPoolExecutor-3_11] [details] START ticket 26645
+2025-08-18 13:49:15,087 INFO [ThreadPoolExecutor-3_12] [details] START ticket 26646
+2025-08-18 13:49:15,088 INFO [ThreadPoolExecutor-3_13] [details] START ticket 26647
+2025-08-18 13:49:15,088 INFO [ThreadPoolExecutor-3_14] [details] START ticket 26648
+2025-08-18 13:49:15,088 INFO [ThreadPoolExecutor-3_15] [details] START ticket 26649
+2025-08-18 13:49:15,089 INFO [ThreadPoolExecutor-3_16] [details] START ticket 26650
+2025-08-18 13:49:15,089 INFO [ThreadPoolExecutor-3_17] [details] START ticket 26651
+2025-08-18 13:49:15,089 INFO [ThreadPoolExecutor-3_18] [details] START ticket 26652
+2025-08-18 13:49:15,089 INFO [ThreadPoolExecutor-3_19] [details] START ticket 26653
+2025-08-18 13:49:15,435 INFO [ThreadPoolExecutor-3_7] [details] END   ticket 26641
+2025-08-18 13:49:15,559 INFO [ThreadPoolExecutor-3_5] [details] END   ticket 26639
+2025-08-18 13:49:15,560 INFO [ThreadPoolExecutor-3_3] [details] END   ticket 26637
+2025-08-18 13:49:15,565 INFO [ThreadPoolExecutor-3_4] [details] END   ticket 26638
+2025-08-18 13:49:15,582 INFO [ThreadPoolExecutor-3_2] [details] END   ticket 26636
+2025-08-18 13:49:15,582 INFO [ThreadPoolExecutor-3_1] [details] END   ticket 26635
+2025-08-18 13:49:15,583 INFO [ThreadPoolExecutor-3_0] [details] END   ticket 26634
+2025-08-18 13:49:15,583 INFO [ThreadPoolExecutor-3_8] [details] END   ticket 26642
+2025-08-18 13:49:15,597 INFO [ThreadPoolExecutor-3_9] [details] END   ticket 26643
+2025-08-18 13:49:15,635 INFO [ThreadPoolExecutor-3_6] [details] END   ticket 26640
+2025-08-18 13:49:15,711 WARNING [ThreadPoolExecutor-3_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,735 WARNING [ThreadPoolExecutor-3_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 9
+2025-08-18 13:49:15,850 INFO [ThreadPoolExecutor-3_17] [details] END   ticket 26651
+2025-08-18 13:49:15,850 INFO [ThreadPoolExecutor-3_11] [details] END   ticket 26645
+2025-08-18 13:49:15,853 WARNING [ThreadPoolExecutor-3_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,856 WARNING [ThreadPoolExecutor-3_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,857 INFO [ThreadPoolExecutor-3_13] [details] END   ticket 26647
+2025-08-18 13:49:15,859 INFO [ThreadPoolExecutor-3_10] [details] END   ticket 26644
+2025-08-18 13:49:15,863 WARNING [ThreadPoolExecutor-3_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,865 INFO [ThreadPoolExecutor-3_15] [details] END   ticket 26649
+2025-08-18 13:49:15,898 WARNING [ThreadPoolExecutor-3_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,899 WARNING [ThreadPoolExecutor-3_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,903 INFO [ThreadPoolExecutor-3_18] [details] END   ticket 26652
+2025-08-18 13:49:15,903 INFO [ThreadPoolExecutor-3_16] [details] END   ticket 26650
+2025-08-18 13:49:15,919 WARNING [ThreadPoolExecutor-3_19] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,923 INFO [ThreadPoolExecutor-3_19] [details] END   ticket 26653
+2025-08-18 13:49:15,927 WARNING [ThreadPoolExecutor-3_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:15,931 INFO [ThreadPoolExecutor-3_14] [details] END   ticket 26648
+2025-08-18 13:49:16,020 WARNING [ThreadPoolExecutor-3_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,023 INFO [ThreadPoolExecutor-3_12] [details] END   ticket 26646
+2025-08-18 13:49:16,025 INFO [MainThread] [migration] ticket 26641 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26639 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26637 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26638 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26636 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26635 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26634 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26642 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26643 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26640 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26651 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26645 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26647 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26644 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26649 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26652 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26650 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26653 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26648 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] [migration] ticket 26646 -> attachments=null
+2025-08-18 13:49:16,026 INFO [MainThread] Batch 4 done. Added 20 entries to migration store
+2025-08-18 13:49:16,026 INFO [MainThread] Processing batch 5 (20 tickets)...
+2025-08-18 13:49:16,027 INFO [ThreadPoolExecutor-4_0] [details] START ticket 26654
+2025-08-18 13:49:16,027 INFO [ThreadPoolExecutor-4_1] [details] START ticket 26655
+2025-08-18 13:49:16,027 INFO [ThreadPoolExecutor-4_2] [details] START ticket 26656
+2025-08-18 13:49:16,027 INFO [ThreadPoolExecutor-4_3] [details] START ticket 26657
+2025-08-18 13:49:16,028 INFO [ThreadPoolExecutor-4_4] [details] START ticket 26658
+2025-08-18 13:49:16,028 INFO [ThreadPoolExecutor-4_5] [details] START ticket 26659
+2025-08-18 13:49:16,029 INFO [ThreadPoolExecutor-4_6] [details] START ticket 26660
+2025-08-18 13:49:16,029 INFO [ThreadPoolExecutor-4_7] [details] START ticket 26661
+2025-08-18 13:49:16,030 INFO [ThreadPoolExecutor-4_8] [details] START ticket 26662
+2025-08-18 13:49:16,030 INFO [ThreadPoolExecutor-4_9] [details] START ticket 26663
+2025-08-18 13:49:16,031 INFO [ThreadPoolExecutor-4_10] [details] START ticket 26664
+2025-08-18 13:49:16,031 INFO [ThreadPoolExecutor-4_11] [details] START ticket 26665
+2025-08-18 13:49:16,031 INFO [ThreadPoolExecutor-4_12] [details] START ticket 26666
+2025-08-18 13:49:16,032 INFO [ThreadPoolExecutor-4_13] [details] START ticket 26667
+2025-08-18 13:49:16,032 INFO [ThreadPoolExecutor-4_14] [details] START ticket 26668
+2025-08-18 13:49:16,033 INFO [ThreadPoolExecutor-4_15] [details] START ticket 26669
+2025-08-18 13:49:16,033 INFO [ThreadPoolExecutor-4_16] [details] START ticket 26670
+2025-08-18 13:49:16,033 INFO [ThreadPoolExecutor-4_17] [details] START ticket 26671
+2025-08-18 13:49:16,034 INFO [ThreadPoolExecutor-4_18] [details] START ticket 26672
+2025-08-18 13:49:16,034 INFO [ThreadPoolExecutor-4_19] [details] START ticket 26673
+2025-08-18 13:49:16,333 INFO [ThreadPoolExecutor-4_0] [details] END   ticket 26654
+2025-08-18 13:49:16,334 INFO [ThreadPoolExecutor-4_5] [details] END   ticket 26659
+2025-08-18 13:49:16,334 INFO [ThreadPoolExecutor-4_9] [details] END   ticket 26663
+2025-08-18 13:49:16,334 INFO [ThreadPoolExecutor-4_7] [details] END   ticket 26661
+2025-08-18 13:49:16,363 INFO [ThreadPoolExecutor-4_8] [details] END   ticket 26662
+2025-08-18 13:49:16,411 INFO [ThreadPoolExecutor-4_2] [details] END   ticket 26656
+2025-08-18 13:49:16,466 INFO [ThreadPoolExecutor-4_1] [details] END   ticket 26655
+2025-08-18 13:49:16,467 INFO [ThreadPoolExecutor-4_6] [details] END   ticket 26660
+2025-08-18 13:49:16,471 INFO [ThreadPoolExecutor-4_3] [details] END   ticket 26657
+2025-08-18 13:49:16,590 WARNING [ThreadPoolExecutor-4_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 9
+2025-08-18 13:49:16,651 INFO [ThreadPoolExecutor-4_4] [details] END   ticket 26658
+2025-08-18 13:49:16,676 INFO [ThreadPoolExecutor-4_19] [details] END   ticket 26673
+2025-08-18 13:49:16,681 WARNING [ThreadPoolExecutor-4_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,683 INFO [ThreadPoolExecutor-4_14] [details] END   ticket 26668
+2025-08-18 13:49:16,686 WARNING [ThreadPoolExecutor-4_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,689 INFO [ThreadPoolExecutor-4_10] [details] END   ticket 26664
+2025-08-18 13:49:16,690 WARNING [ThreadPoolExecutor-4_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,693 INFO [ThreadPoolExecutor-4_18] [details] END   ticket 26672
+2025-08-18 13:49:16,713 WARNING [ThreadPoolExecutor-4_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,717 INFO [ThreadPoolExecutor-4_12] [details] END   ticket 26666
+2025-08-18 13:49:16,719 WARNING [ThreadPoolExecutor-4_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,722 INFO [ThreadPoolExecutor-4_17] [details] END   ticket 26671
+2025-08-18 13:49:16,735 WARNING [ThreadPoolExecutor-4_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,737 INFO [ThreadPoolExecutor-4_11] [details] END   ticket 26665
+2025-08-18 13:49:16,745 WARNING [ThreadPoolExecutor-4_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,745 WARNING [ThreadPoolExecutor-4_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:16,750 INFO [ThreadPoolExecutor-4_13] [details] END   ticket 26667
+2025-08-18 13:49:16,750 INFO [ThreadPoolExecutor-4_16] [details] END   ticket 26670
+2025-08-18 13:49:17,072 WARNING [ThreadPoolExecutor-4_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,080 INFO [ThreadPoolExecutor-4_15] [details] END   ticket 26669
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26654 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26659 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26663 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26661 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26662 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26656 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26655 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26660 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26657 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26658 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26673 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26668 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26664 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26672 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26666 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26671 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26665 -> attachments=null
+2025-08-18 13:49:17,083 INFO [MainThread] [migration] ticket 26667 -> attachments=null
+2025-08-18 13:49:17,084 INFO [MainThread] [migration] ticket 26670 -> attachments=null
+2025-08-18 13:49:17,084 INFO [MainThread] [migration] ticket 26669 -> attachments=null
+2025-08-18 13:49:17,084 INFO [MainThread] Batch 5 done. Added 20 entries to migration store
+2025-08-18 13:49:17,084 INFO [MainThread] Processing batch 6 (20 tickets)...
+2025-08-18 13:49:17,084 INFO [ThreadPoolExecutor-5_0] [details] START ticket 26674
+2025-08-18 13:49:17,084 INFO [ThreadPoolExecutor-5_1] [details] START ticket 26675
+2025-08-18 13:49:17,084 INFO [ThreadPoolExecutor-5_2] [details] START ticket 26676
+2025-08-18 13:49:17,085 INFO [ThreadPoolExecutor-5_3] [details] START ticket 26677
+2025-08-18 13:49:17,086 INFO [ThreadPoolExecutor-5_4] [details] START ticket 26678
+2025-08-18 13:49:17,086 INFO [ThreadPoolExecutor-5_5] [details] START ticket 26679
+2025-08-18 13:49:17,087 INFO [ThreadPoolExecutor-5_6] [details] START ticket 26680
+2025-08-18 13:49:17,087 INFO [ThreadPoolExecutor-5_7] [details] START ticket 26681
+2025-08-18 13:49:17,088 INFO [ThreadPoolExecutor-5_8] [details] START ticket 26682
+2025-08-18 13:49:17,088 INFO [ThreadPoolExecutor-5_9] [details] START ticket 26683
+2025-08-18 13:49:17,089 INFO [ThreadPoolExecutor-5_10] [details] START ticket 26684
+2025-08-18 13:49:17,089 INFO [ThreadPoolExecutor-5_11] [details] START ticket 26685
+2025-08-18 13:49:17,089 INFO [ThreadPoolExecutor-5_12] [details] START ticket 26686
+2025-08-18 13:49:17,090 INFO [ThreadPoolExecutor-5_13] [details] START ticket 26687
+2025-08-18 13:49:17,092 INFO [ThreadPoolExecutor-5_14] [details] START ticket 26688
+2025-08-18 13:49:17,093 INFO [ThreadPoolExecutor-5_15] [details] START ticket 26689
+2025-08-18 13:49:17,093 INFO [ThreadPoolExecutor-5_16] [details] START ticket 26690
+2025-08-18 13:49:17,094 INFO [ThreadPoolExecutor-5_17] [details] START ticket 26691
+2025-08-18 13:49:17,094 INFO [ThreadPoolExecutor-5_18] [details] START ticket 26692
+2025-08-18 13:49:17,094 INFO [ThreadPoolExecutor-5_19] [details] START ticket 26693
+2025-08-18 13:49:17,692 WARNING [ThreadPoolExecutor-5_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,692 WARNING [ThreadPoolExecutor-5_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,694 WARNING [ThreadPoolExecutor-5_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,696 WARNING [ThreadPoolExecutor-5_19] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,696 WARNING [ThreadPoolExecutor-5_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,703 WARNING [ThreadPoolExecutor-5_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,704 WARNING [ThreadPoolExecutor-5_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,705 WARNING [ThreadPoolExecutor-5_15] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,709 WARNING [ThreadPoolExecutor-5_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:49:17,711 WARNING [ThreadPoolExecutor-5_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:13,968 INFO [ThreadPoolExecutor-5_10] [details] END   ticket 26684
+2025-08-18 13:50:13,996 INFO [ThreadPoolExecutor-5_18] [details] END   ticket 26692
+2025-08-18 13:50:14,004 INFO [ThreadPoolExecutor-5_11] [details] END   ticket 26685
+2025-08-18 13:50:14,008 INFO [ThreadPoolExecutor-5_13] [details] END   ticket 26687
+2025-08-18 13:50:14,012 INFO [ThreadPoolExecutor-5_16] [details] END   ticket 26690
+2025-08-18 13:50:14,024 INFO [ThreadPoolExecutor-5_19] [details] END   ticket 26693
+2025-08-18 13:50:14,047 INFO [ThreadPoolExecutor-5_15] [details] END   ticket 26689
+2025-08-18 13:50:14,062 INFO [ThreadPoolExecutor-5_17] [details] END   ticket 26691
+2025-08-18 13:50:14,099 INFO [ThreadPoolExecutor-5_12] [details] END   ticket 26686
+2025-08-18 13:50:14,131 INFO [ThreadPoolExecutor-5_14] [details] END   ticket 26688
+2025-08-18 13:50:14,672 INFO [ThreadPoolExecutor-5_8] [details] END   ticket 26682
+2025-08-18 13:50:14,690 INFO [ThreadPoolExecutor-5_7] [details] END   ticket 26681
+2025-08-18 13:50:14,705 INFO [ThreadPoolExecutor-5_1] [details] END   ticket 26675
+2025-08-18 13:50:14,705 INFO [ThreadPoolExecutor-5_4] [details] END   ticket 26678
+2025-08-18 13:50:14,716 INFO [ThreadPoolExecutor-5_3] [details] END   ticket 26677
+2025-08-18 13:50:14,719 INFO [ThreadPoolExecutor-5_0] [details] END   ticket 26674
+2025-08-18 13:50:14,724 INFO [ThreadPoolExecutor-5_5] [details] END   ticket 26679
+2025-08-18 13:50:14,729 INFO [ThreadPoolExecutor-5_9] [details] END   ticket 26683
+2025-08-18 13:50:14,730 INFO [ThreadPoolExecutor-5_2] [details] END   ticket 26676
+2025-08-18 13:50:14,753 INFO [ThreadPoolExecutor-5_6] [details] END   ticket 26680
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26684 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26692 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26685 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26687 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26690 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26693 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26689 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26691 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26686 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26688 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26682 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26681 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26675 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26678 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26677 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26674 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26679 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26683 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26676 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] [migration] ticket 26680 -> attachments=null
+2025-08-18 13:50:14,755 INFO [MainThread] Batch 6 done. Added 20 entries to migration store
+2025-08-18 13:50:14,755 INFO [MainThread] Processing batch 7 (19 tickets)...
+2025-08-18 13:50:14,755 INFO [ThreadPoolExecutor-6_0] [details] START ticket 26694
+2025-08-18 13:50:14,755 INFO [ThreadPoolExecutor-6_1] [details] START ticket 26695
+2025-08-18 13:50:14,756 INFO [ThreadPoolExecutor-6_2] [details] START ticket 26696
+2025-08-18 13:50:14,756 INFO [ThreadPoolExecutor-6_3] [details] START ticket 26697
+2025-08-18 13:50:14,756 INFO [ThreadPoolExecutor-6_4] [details] START ticket 26698
+2025-08-18 13:50:14,756 INFO [ThreadPoolExecutor-6_5] [details] START ticket 26699
+2025-08-18 13:50:14,757 INFO [ThreadPoolExecutor-6_6] [details] START ticket 26700
+2025-08-18 13:50:14,759 INFO [ThreadPoolExecutor-6_7] [details] START ticket 26701
+2025-08-18 13:50:14,759 INFO [ThreadPoolExecutor-6_8] [details] START ticket 26702
+2025-08-18 13:50:14,760 INFO [ThreadPoolExecutor-6_9] [details] START ticket 26703
+2025-08-18 13:50:14,760 INFO [ThreadPoolExecutor-6_10] [details] START ticket 26704
+2025-08-18 13:50:14,760 INFO [ThreadPoolExecutor-6_11] [details] START ticket 26705
+2025-08-18 13:50:14,761 INFO [ThreadPoolExecutor-6_12] [details] START ticket 26706
+2025-08-18 13:50:14,761 INFO [ThreadPoolExecutor-6_13] [details] START ticket 26707
+2025-08-18 13:50:14,762 INFO [ThreadPoolExecutor-6_14] [details] START ticket 26708
+2025-08-18 13:50:14,762 INFO [ThreadPoolExecutor-6_15] [details] START ticket 26709
+2025-08-18 13:50:14,762 INFO [ThreadPoolExecutor-6_16] [details] START ticket 26710
+2025-08-18 13:50:14,763 INFO [ThreadPoolExecutor-6_17] [details] START ticket 26711
+2025-08-18 13:50:14,763 INFO [ThreadPoolExecutor-6_18] [details] START ticket 26533
+2025-08-18 13:50:15,275 INFO [ThreadPoolExecutor-6_5] [details] END   ticket 26699
+2025-08-18 13:50:15,289 INFO [ThreadPoolExecutor-6_0] [details] END   ticket 26694
+2025-08-18 13:50:15,297 INFO [ThreadPoolExecutor-6_3] [details] END   ticket 26697
+2025-08-18 13:50:15,323 INFO [ThreadPoolExecutor-6_7] [details] END   ticket 26701
+2025-08-18 13:50:15,330 INFO [ThreadPoolExecutor-6_1] [details] END   ticket 26695
+2025-08-18 13:50:15,331 INFO [ThreadPoolExecutor-6_8] [details] END   ticket 26702
+2025-08-18 13:50:15,337 INFO [ThreadPoolExecutor-6_6] [details] END   ticket 26700
+2025-08-18 13:50:15,338 INFO [ThreadPoolExecutor-6_4] [details] END   ticket 26698
+2025-08-18 13:50:15,350 INFO [ThreadPoolExecutor-6_9] [details] END   ticket 26703
+2025-08-18 13:50:15,372 WARNING [ThreadPoolExecutor-6_12] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 9
+2025-08-18 13:50:15,388 WARNING [ThreadPoolExecutor-6_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 9
+2025-08-18 13:50:15,391 INFO [ThreadPoolExecutor-6_2] [details] END   ticket 26696
+2025-08-18 13:50:15,496 INFO [ThreadPoolExecutor-6_15] [details] END   ticket 26709
+2025-08-18 13:50:15,497 INFO [ThreadPoolExecutor-6_12] [details] END   ticket 26706
+2025-08-18 13:50:15,499 WARNING [ThreadPoolExecutor-6_11] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,501 INFO [ThreadPoolExecutor-6_11] [details] END   ticket 26705
+2025-08-18 13:50:15,512 WARNING [ThreadPoolExecutor-6_16] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,515 INFO [ThreadPoolExecutor-6_16] [details] END   ticket 26710
+2025-08-18 13:50:15,529 WARNING [ThreadPoolExecutor-6_17] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,529 WARNING [ThreadPoolExecutor-6_13] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,533 INFO [ThreadPoolExecutor-6_17] [details] END   ticket 26711
+2025-08-18 13:50:15,533 INFO [ThreadPoolExecutor-6_13] [details] END   ticket 26707
+2025-08-18 13:50:15,578 WARNING [ThreadPoolExecutor-6_18] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,584 INFO [ThreadPoolExecutor-6_18] [details] END   ticket 26533
+2025-08-18 13:50:15,596 WARNING [ThreadPoolExecutor-6_10] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,596 WARNING [ThreadPoolExecutor-6_14] Connection pool is full, discarding connection: paytm-designocl.freshdesk.com. Connection pool size: 10
+2025-08-18 13:50:15,599 INFO [ThreadPoolExecutor-6_14] [details] END   ticket 26708
+2025-08-18 13:50:15,601 INFO [ThreadPoolExecutor-6_10] [details] END   ticket 26704
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26699 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26694 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26697 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26701 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26695 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26702 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26700 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26698 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26703 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26696 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26709 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26706 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26705 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26710 -> attachments=null
+2025-08-18 13:50:15,604 INFO [MainThread] [migration] ticket 26711 -> attachments=null
+2025-08-18 13:50:15,605 INFO [MainThread] [migration] ticket 26707 -> attachments=null
+2025-08-18 13:50:15,605 INFO [MainThread] [migration] ticket 26533 -> attachments=null
+2025-08-18 13:50:15,605 INFO [MainThread] [migration] ticket 26708 -> attachments=null
+2025-08-18 13:50:15,605 INFO [MainThread] [migration] ticket 26704 -> attachments=null
+2025-08-18 13:50:15,605 INFO [MainThread] Batch 7 done. Added 19 entries to migration store
+2025-08-18 13:50:15,605 INFO [MainThread] Details Producer done.
