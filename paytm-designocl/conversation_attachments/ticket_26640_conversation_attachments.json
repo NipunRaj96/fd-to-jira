@@ -1,0 +1,38 @@
+[
+  {
+    "id": 85001650824,
+    "name": "26640_Community_Paytm-1.jpg",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001650824/original/26640_Community_Paytm-1.jpg?Expires=1755497569&Signature=JTI1NUYO8LsQ4GFXVXyi7X3hDsQtLGOr2QvZ2DcHhGcy-a7vbebTBrWj68zFUjvFBtTP7dH0-jLw6NR8BUsiN9LnKuRrNrrYUvOyULI3Ge1zRyTmoQCHWTJITZCAiBWb04msDLZ4PKPv9L8EgS6ufdvRAjir1M5s99qcFLYgVvyX5hc05lQvvokIVXYTzdwMuj~mPraArAmfDk~lhE3N68QLVXZCZzw9FjJbCEU-zKjPh-qza-RXsO9jEUl4jUqlm0JMKl9jHPY9TqzB-gu7WMDtCZXzkqhEb8PqzAzCisY3eG6sEnC0K9xYnTI82XUr4NuJmVdzymdMBI09aC3S7Q__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/jpeg",
+    "size": 1651952,
+    "created_at": "2025-08-11T13:27:02Z",
+    "updated_at": "2025-08-11T13:27:02Z",
+    "user_id": 85000184682,
+    "conversation_id": 85004055604,
+    "ticket_id": 26640
+  },
+  {
+    "id": 85001650825,
+    "name": "26640_Community_Paytm.jpg",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001650825/original/26640_Community_Paytm.jpg?Expires=1755497569&Signature=qBmPyT5VfOUUL5Oqdek5qbrihce1rlL43~tR93UUpKuePdhEAJwS8RxqX-2eapfLAwB-4ccPhlhmczK2iYQi~stj547XMqqnibmIONvjd84nd8jDtEbN~Oe9fJjjvNEsQ3qYv6D4d3Z7BruagSk374qygFhjJivdjb~eHhoMhLdInOnlI1A15ajLLDbE9xN6FKM97uFggnfOHDNXTgaAJm1Bdswb68KPX-dOODTNKUp13vhlHjEGudEtAJxzA6NK5sBK4yauM47yNOAXJ~89OgAEMnV9NTsqviJSU04fswNchWKmBZqD9~ndAdeUaKi-lZRvNk9xISYMe2blCWVWsg__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/jpeg",
+    "size": 1678790,
+    "created_at": "2025-08-11T13:27:02Z",
+    "updated_at": "2025-08-11T13:27:02Z",
+    "user_id": 85000184682,
+    "conversation_id": 85004055604,
+    "ticket_id": 26640
+  },
+  {
+    "id": 85001651036,
+    "name": "26640_Community_Paytm.png",
+    "url": "https://paytm-designocl.attachments-ind5.freshdesk.com/data/helpdesk/attachments/production/85001651036/original/26640_Community_Paytm.png?Expires=1755497569&Signature=H0e8VHCQRbkITTIWcz4kdFzRCDEGVX2pCj0SNp7OkQuTqx8x23zjgHgMqP-Wlq-iLnEN9TW~RUWLEqQlqJQ8yr9bxPCyaH2ffDf1EverDAXMo5FDGj-zHP1f-C3PyYEcSk6AUVe-~Fc37HuuRbbYRd9IDkgbg0x5tDaG0B5pR28qaVs~Dwh0-De7Hn92mhyNfhixTvmfmK1Cxs-eJJGAxIOOVyIuTnxIupOCKBfFZzFDU3o-HdlMdUDWKEeSDVyVXz4BvUuLS0JKwZktDP5mVvOEiDl0U~ro4zxt7pLXvsUaU8Z1hbnBHO5iY3KEnMK3YxLlImhvQRyjHf2hTT04qQ__&Key-Pair-Id=APKAJ7JARUX3F6RQIXLA",
+    "content_type": "image/png",
+    "size": 611653,
+    "created_at": "2025-08-12T05:44:27Z",
+    "updated_at": "2025-08-12T05:44:27Z",
+    "user_id": 85000184682,
+    "conversation_id": 85004059679,
+    "ticket_id": 26640
+  }
+]

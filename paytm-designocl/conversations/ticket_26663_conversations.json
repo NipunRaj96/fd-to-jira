@@ -1,0 +1,101 @@
+[
+  {
+    "id": 85004052663,
+    "body_text": "Sample image for border:",
+    "body": "<div>Sample image for border:</div>\n<div><br></div>\n<img src=\"https://indattachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ODUwMDE2NTA1NzMsImRvbWFpbiI6InBheXRtLWRlc2lnbm9jbC5mcmVzaGRlc2suY29tIiwiYWNjb3VudF9pZCI6MjQyNDk5OX0.O8cZ6lpZl8Wo7s_PAOvSCvTY1MFWnyk6D6IszxZnvyw\" style=\"width: 300px\" class=\"fr-fic fr-fil fr-dib\"><div></div>",
+    "private": false,
+    "created_at": "2025-08-11T06:54:24Z",
+    "updated_at": "2025-08-11T06:54:24Z",
+    "user_id": 85000512524,
+    "incoming": true,
+    "source": 2,
+    "to_emails": [],
+    "cc_emails": [],
+    "ticket_id": 26663
+  },
+  {
+    "id": 85004061419,
+    "body_text": "Hi Salil Tawde,  Attaching the gif here.  Please note the stroke in the shared gif has been added from the backend and not us. ",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Salil Tawde,<br><br>Attaching the gif here.<br><br>Please note the stroke in the shared gif has been added from the backend and not us. <br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-12T09:13:14Z",
+    "updated_at": "2025-08-12T09:13:14Z",
+    "user_id": 85000075782,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "salil.tawde@paytm.com"
+    ],
+    "from_email": "\"Dheeraj Kr\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26663
+  },
+  {
+    "id": 85004061854,
+    "body_text": "Hi Dheeraj,      Since CIR page has migrated to storefront, there is no provision to add the stroke from backend. This border is similar to the one we add to superthins.",
+    "body": "<div id=\"isPasted\">Hi Dheeraj, </div>\n<div><br></div>\n<div>Since CIR page has migrated to storefront, there is no provision to add the stroke from backend. This border is similar to the one we add to superthins.</div>\n<div><br></div>",
+    "private": false,
+    "created_at": "2025-08-12T10:06:16Z",
+    "updated_at": "2025-08-12T10:06:16Z",
+    "user_id": 85000512524,
+    "incoming": true,
+    "source": 2,
+    "to_emails": [],
+    "cc_emails": [],
+    "ticket_id": 26663
+  },
+  {
+    "id": 85004063585,
+    "body_text": "Hi Salil Tawde,  Alright! In that case, we'd need the corner radius. ",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Salil Tawde,<br><br>Alright! In that case, we'd need the corner radius. <br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-12T14:14:28Z",
+    "updated_at": "2025-08-12T14:14:28Z",
+    "user_id": 85000075782,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "salil.tawde@paytm.com"
+    ],
+    "from_email": "\"Dheeraj Kr\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26663
+  },
+  {
+    "id": 85004063811,
+    "body_text": "Radius: 30",
+    "body": "<div>Radius: 30</div>",
+    "private": false,
+    "created_at": "2025-08-12T14:43:58Z",
+    "updated_at": "2025-08-12T14:43:58Z",
+    "user_id": 85000512524,
+    "incoming": true,
+    "source": 2,
+    "to_emails": [],
+    "cc_emails": [],
+    "ticket_id": 26663
+  },
+  {
+    "id": 85004068458,
+    "body_text": "Hi Salil Tawde,  Please check.",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Salil Tawde,<br><br>Please check.<br><br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-13T07:28:29Z",
+    "updated_at": "2025-08-13T07:28:29Z",
+    "user_id": 85000075782,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "salil.tawde@paytm.com"
+    ],
+    "from_email": "\"Dheeraj Kr\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26663
+  }
+]

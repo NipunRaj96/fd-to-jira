@@ -1,0 +1,40 @@
+[
+  {
+    "id": 85004075453,
+    "body_text": "Hi Ankush,  please give access to the file to me and Taruna.",
+    "body": "<div style=\"font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif; font-size:14px\">\n<div dir=\"ltr\">Hi Ankush,<br><br>please give access to the file to me and Taruna.<br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n</div>",
+    "private": false,
+    "created_at": "2025-08-14T06:11:28Z",
+    "updated_at": "2025-08-14T06:11:28Z",
+    "user_id": 85000184455,
+    "incoming": false,
+    "source": 0,
+    "support_email": "support@paytm-designocl.freshdesk.com",
+    "to_emails": [
+      "ankush.bhardwaj@paytm.com"
+    ],
+    "from_email": "\"Divya Sharma\" <support@paytm-designocl.freshdesk.com>",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26693
+  },
+  {
+    "id": 85004075571,
+    "body_text": "Pl check.\r\n\r\nOn Thu, Aug 14, 2025 at 11:41 AM Divya Sharma <\r\nsupport@paytm-designocl.freshdesk.com> wrote:\r\n\r\n> Hi Ankush,\r\n>\r\n> please give access to the file to me and Taruna.\r\n>\r\n>\r\n> Encès Dt, 12 Ago. a les 7:17 AM , Ankush <ankush.bhardwaj@paytm.com> ha\r\n> escrit:\r\n> No proporcionat.\r\n>\r\n> 26693:2424999\r\n>\r\n\r\n\r\n-- \r\n*Regards,*\r\n*Ankush / **Growth - RU*\r\n\r\n",
+    "body": "<div dir=\"ltr\">Pl check.</div>\n<br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\"></div></div>\n<div class=\"freshdesk_quote\"><blockquote class=\"freshdesk_quote\">\n<div>On Thu, Aug 14, 2025 at 11:41 AM Divya Sharma &lt;<a href=\"mailto:support@paytm-designocl.freshdesk.com\" rel=\"noreferrer\">support@paytm-designocl.freshdesk.com</a>&gt; wrote:<br>\n</div>\n<blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex\"><div style='font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:14px'>\n\t<div style='font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:14px'>\n<div dir=\"ltr\">Hi Ankush,<br><br>please give access to the file to me and Taruna.<br><br>\n</div>\n<div><div dir=\"ltr\"><div><br></div></div></div>\n<div>\n                          <blockquote>\n                            Encès\n                            Dt, 12 Ago. a les  7:17 AM\n                            <span>,  Ankush &lt;<a href=\"mailto:ankush.bhardwaj@paytm.com\" target=\"_blank\" rel=\"noreferrer\">ankush.bhardwaj@paytm.com</a>&gt;  ha escrit:\n                            <div>No proporcionat.</div>\n                          </span>\n</blockquote>\n                        </div>\n</div>\n\n\n\t\n\n\n\n\n\n\n\n\n</div></blockquote>\n<div><br></div>\n<div><br></div>\n<span class=\"gmail_signature_prefix\">-- </span><br><div dir=\"ltr\" class=\"gmail_signature\"><div dir=\"ltr\"><div dir=\"ltr\"><div dir=\"ltr\"><div dir=\"ltr\">\n<div><font color=\"#000000\"><i><u>Regards,</u></i></font></div>\n<div>\n<font color=\"#000000\"><i><u>Ankush / </u></i></font><i style=\"color:rgb(0,0,0);font-family:arial,sans-serif\"><u>Growth - RU</u></i>\n</div>\n</div></div></div></div></div>\n</blockquote></div>",
+    "private": false,
+    "created_at": "2025-08-14T06:25:56Z",
+    "updated_at": "2025-08-14T06:25:56Z",
+    "user_id": 85000231147,
+    "incoming": true,
+    "source": 0,
+    "support_email": "ankush.bhardwaj@paytm.com",
+    "to_emails": [
+      "\"Divya Sharma\" <support@paytm-designocl.freshdesk.com>"
+    ],
+    "from_email": "ankush.bhardwaj@paytm.com",
+    "cc_emails": [],
+    "bcc_emails": [],
+    "ticket_id": 26693
+  }
+]
