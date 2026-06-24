@@ -7,7 +7,7 @@ A comprehensive, configurable migration tool to transfer tickets, comments, atta
 This tool is designed to migrate data from multiple Freshdesk instances to Jira ITSM, supporting:
 - **500,000+ tickets** with efficient batch processing
 - **Multiple Freshdesk instances** with different configurations
-- **Complete data transfer** including tickets, comments, attachments, users, and custom fields
+- **Complete data transfer** including tickets, comments, attachments, users, and custom fields except Ticket Inline attachments
 - **Enterprise-grade features** with robust error handling and progress tracking
 
 ## 📁 **Project Structure**
